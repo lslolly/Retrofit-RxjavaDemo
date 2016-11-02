@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyRxjavaExzmple.iml" filepath="$PROJECT_DIR$/MyRxjavaExzmple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my2rdemo/my2rdemo.iml" filepath="$PROJECT_DIR$/my2rdemo/my2rdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myretrofirrxjava/myretrofirrxjava.iml" filepath="$PROJECT_DIR$/myretrofirrxjava/myretrofirrxjava.iml" />
+    </modules>
+  </component>
+</project>
